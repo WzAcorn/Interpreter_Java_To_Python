@@ -1,0 +1,24 @@
+dust = INPUT("미세먼지 농도입력: ")
+smalldust  = INPUT("초미세먼지 농도입력: ")
+
+IF dust<30:
+	PRINT("미세먼지 좋음")
+	PRINT("날씨도 좋은데 외출은 어떠세요?")
+ELIF dust<80:
+	PRINT("미세먼지 보통")
+	PRINT("오늘은 평범한 날씨네요.")
+ELIF dust<150:
+	PRINT("미세먼지 나쁨")
+	PRINT("외출시 마스크 챙겨 나가세요.")
+ELSE:
+	PRINT("미세먼지 매우나쁨")
+	PRINT("오늘은 바깥활동 금지!")
+
+IF smalldust < 15:
+	PRINT("초미세먼지 좋음")
+ELIF smalldust < 35:
+	PRINT("초미세먼지 보통")
+ELIF smalldust < 85:
+	PRINT("초미세먼지 나쁨")
+ELSE:
+	PRINT("초미세먼지 매우나쁨")
