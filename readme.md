@@ -3,7 +3,7 @@
 
 
 # 개요
-Interpreter_Java_To_Python은 Java로 작성된 코드를 Python 코드로 자동으로 해석하는 인터프리터입니다. 이 프로젝트는 Java와 Python 간의 문법적 차이를 극복하고, 사용자들이 Java로 작성한 코드를 Python으로 실행할 수 있도록 지원합니다. 이를 통해 Java 기반의 프로젝트를 Python 환경에서도 실행 및 테스트할 수 있게 됩니다.
+Interpreter_Java_To_Python은 Python 으로 작성한 코드를 JAVA 언어에서 해석하는 인터프리터입니다. 이 프로젝트는 Java와 Python 간의 문법적 차이를 극복하고, 사용자들이 Java로 작성한 코드를 Python으로 실행할 수 있도록 지원합니다. 이를 통해 Java 기반의 프로젝트를 Python 환경에서도 실행 및 테스트할 수 있게 됩니다.
 
 # 주요기능
 :one: :Python 코드를 파싱하고 결과를 Java console창에 띄움.
