@@ -12,15 +12,21 @@ Interpreter_Java_To_Python은 Java로 작성된 코드를 Python 코드로 자�
 
 # 알고리즘
 ![프언3](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/786c01a3-9c04-4cd8-80b8-e0cf2add03a6)
+
 하나의 단어를 TOKEN으로 받아드려 TOKEN이 Delimiter인지 variable인지 number인지 비교하는 알고리즘.
 
 ![프언4](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/78a677f5-e8cd-4fea-9dc1-bb39d600b417)
+
 수식을 처리해야하는 경우 사칙연산 순서에 맞게 괄호 ➡️ 지수 ➡️ 곱셈과 나눗셈 ➡️ 덧셈과 뺄셈 순으로 계산하게 된다.
 
 ![프언5](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/7d792201-4cb8-43af-98f7-4bd74a596591)
+
 TOKEN이 PRINT일 경우 Delimiter로 받아드려지고 공백을 처리한 후 콘솔에 출력함.
+
 ![프언6](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/6d2e4b7e-67f7-4c91-9bf7-60cc42349713)
+
 TOEKN이 INPUT일 경우 다음 토큰들을 가져와 변수를 얻고 조건문 연산을 진행함.
+
 
 # 결과
 ![프언1](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/cd409a02-b17d-454a-8c11-d327e6cba752)
