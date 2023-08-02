@@ -23,5 +23,4 @@ TOKEN이 PRINT일 경우 Delimiter로 받아드려지고 공백을 처리한 후
 TOEKN이 INPUT일 경우 다음 토큰들을 가져와 변수를 얻고 조건문 연산을 진행함.
 
 # 결과
-![프언1](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/00be0759-0fc5-4891-ad15-f15d7e669abc) ![프언2](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/ccafdbed-9633-4cfb-a289-2ee464b4dfe8)
-
+![프언1](https://github.com/ilovegalio/Interpreter_Java_To_Python/assets/77008882/cd409a02-b17d-454a-8c11-d327e6cba752)
